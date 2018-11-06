@@ -1,0 +1,1 @@
+E:\Console\GitExample\GitExample\bin\Debug\GitExample.exe.config
