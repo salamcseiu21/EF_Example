@@ -1,1 +1,6 @@
 E:\Console\GitExample\GitExample\bin\Debug\GitExample.exe.config
+E:\Console\GitExample\GitExample\bin\Debug\GitExample.exe
+E:\Console\GitExample\GitExample\bin\Debug\GitExample.pdb
+E:\Console\GitExample\GitExample\obj\Debug\GitExample.csprojResolveAssemblyReference.cache
+E:\Console\GitExample\GitExample\obj\Debug\GitExample.exe
+E:\Console\GitExample\GitExample\obj\Debug\GitExample.pdb
